@@ -1,3 +1,10 @@
+Forked for Giveth on May 14 2024. This repo will be used to adjust, implement, and experiment with COCM and other QF-related mechanisms for QF rounds at Giveth.
+
+COCM announcement post: https://forum.giveth.io/t/cluster-match-qf-announcement/1419
+
+Questions? Comments? Engage with us on the forum!
+
+-------------------------------------------------------
 ## QF TESTER
 This codebase is designed to implement various Quadratic Funding (QF) algorithms. It includes functions for data preparation, calculation of matching funds, and testing of different QF strategies.
 
